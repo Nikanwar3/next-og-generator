@@ -90,7 +90,7 @@ GET https://your-domain.com/api/og?title=Hello+World&theme=dots&bg=%231e1e1e&col
 
 ## 🤝 Contributing
 
-Contribution, issue, and feature requests are welcome. Feel free to check the issues page.
+Contributions, issues, and feature requests are welcome. Feel free to check the issues page.
 
 ## 📝 License
 
